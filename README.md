@@ -1,8 +1,9 @@
-# Halo semua!   Perkenalkan nama saya **Putra Prasetya**  
-Saya seorang **Mahasiswa** Informatika di Universitas Udayana.  
-Saya sedang menempuh Semester 5 dengan mengiktui Program **Kampus Merdeka bersama Dicoding**.  
-Saya juga memiliki kemampuan editing, baik grafis, video, dan foto.  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/putraprasetya/)ku ya.
+# Hi Everyone!   I'm **Putra Prasetya**  
+I am a fresh graduate who have an interest into techs especially computer related that focusing on Web Development with React.js and Node.js.
+With a strong understanding of HTML, CSS, and JavaScript, I can create responsive and visually appealing web interfaces. 
+I also have proficiency in editing tools like Adobe such as Photoshop, Illustrator, Premiere, and After Effects. 
+I believe in teamwork and effective communication, and I am always eager to learn and stay updated with the latest developments in the web development industry.
+If you interested to know about me, hop into my [Linkedin](https://www.linkedin.com/in/putraprasetya/) account here.
 
 <p align="left">
 <a href="https://github.com/PutraPrasetya">
